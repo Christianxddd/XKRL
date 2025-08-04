@@ -1,0 +1,1 @@
+-- ERROR: No se encontró Window = Rayfield:CreateWindow(...) en el script original.
